@@ -43,7 +43,7 @@ export const SignUp = () => {
     <Container>
         <Background />
         <Form>
-            <h1>RocketNotes</h1>
+            <h1>NotasPessoais</h1>
             <p>Aplicação para salvar e gerenciar seus links úteis.</p>
 
             <h2>Crie sua conta</h2>
